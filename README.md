@@ -11,7 +11,7 @@ Run JS Frontend
 * npm install 
 * npm run dev
 
-Run C# Frontend
+Run C# Native App
 
 * Open sln in Visual Studio
 * Click Run from within Visual Studio.
